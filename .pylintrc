@@ -5,6 +5,8 @@ disable =
       C0115, #missing-class-docstring
       C0116, #missing-function-docstring
       W0703, #missing too general exceptio Exception
+      C0303, #trailing-whitespace
+      R0903, #too-few-public-methods
 
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
